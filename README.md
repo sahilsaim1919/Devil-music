@@ -8,7 +8,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ Heroku 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/sahilsaim1919/Devil_X_Music_player"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=Heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/sahilsaim1919/Devil-music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=Heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -16,7 +16,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ Render 」─
 </h3>
 
-<p align="center"><a href="https://render.com/new?template=https://github.com/sahilsaim1919/Devil_X_Music_player"> <img src="https://img.shields.io/badge/Deploy%20On%20Render-blue?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://render.com/new?template=https://github.com/sahilsaim1919/Devil-music"> <img src="https://img.shields.io/badge/Deploy%20On%20Render-blue?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 
 
  
@@ -51,4 +51,4 @@
  
 - <b> 𝑴𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑨𝒏𝒅 𝑪𝒓𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚𝒚 🥳🥳
 
-Loading.......................................▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+Loading......................▓▓▓▓▓▓▓▓▓▓▓▓ 100%
