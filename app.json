@@ -61,7 +61,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": " 𝐈'𝐦 𝐀𝐥𝐢𝐯𝐞 𝐁𝐚𝐛𝐲 😂"
+            "value": "I'm Alive Baby 😂"
         }
     },
     "addons": [],
