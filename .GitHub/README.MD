@@ -1,4 +1,4 @@
- <h2 align="center">
+<h2 align="center">
     ──「 DeVil X ダ ᴍᴜsɪᴄ 」──
 </h2>
 
@@ -179,7 +179,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # 𝐒𝐮𝐩𝐩𝐨𝐫𝐭💬 & 📡𝐔𝐩𝐝𝐚𝐭𝐞𝐬
-Nothing 
+<a href="https://t.me/sabyahaapnehai"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
 </details>
 
