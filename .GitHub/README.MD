@@ -174,26 +174,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `screen bash start`
 <br>
 
-</details>
 
-# Owner And Credit)
-<details>
-<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
-<br>
-
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
-
-- [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
-- [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
-- [Abhimanyu](https://telegram.dog/Itz_Venom_xD)
-- [ᴍᴀssoᴍ](https://telegram.dog/Kattai_massom)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
-</details>
-
-<details>
 <summary><b>sᴜᴘᴘᴏʀᴛ&updates💖</b></summary>
 <br>
 
@@ -213,7 +194,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://t.me/pyar_bhari_duniya"><img src="https://img.shields.io/badge/-updates%20channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-
 </details>
 
 
@@ -222,7 +202,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <summary><b>𝑪𝒓𝒆𝒅𝒊𝒕</b></summary>
 <br>
 
-𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑨𝒏𝒅 𝑪𝒓𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚𝒚 🥳🥳
+𝑴𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑨𝒏𝒅 𝑪𝒓𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚𝒚 🥳🥳
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
