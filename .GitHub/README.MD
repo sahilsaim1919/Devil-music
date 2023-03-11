@@ -185,9 +185,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </details>
 
 <details>
-<summary><b>credit</b></summary>
+<summary><b>𝑪𝒓𝒆𝒅𝒊𝒕</b></summary>
 <br>
 
+𝑴𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑨𝒏𝒅 𝑪𝒓𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚𝒚 🥳🥳
 
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
