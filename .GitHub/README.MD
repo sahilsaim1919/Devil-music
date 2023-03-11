@@ -175,7 +175,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </details>
 
 <details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<summary><b>sᴜᴘᴘᴏʀᴛ & updates 💖</b></summary>
 <br>
 
 # 𝐒𝐮𝐩𝐩𝐨𝐫𝐭💬 & 📡𝐔𝐩𝐝𝐚𝐭𝐞𝐬
