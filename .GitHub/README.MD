@@ -12,7 +12,6 @@
     <a href="https://github.com/its-star-boi/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/its-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/its-star-boi/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/its-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
 
 
 
@@ -172,7 +171,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `sudo apt install screen -y`
 - Finally run the bot by :
 `screen bash start`
-<br>
+
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ&updates💖</b></summary>
