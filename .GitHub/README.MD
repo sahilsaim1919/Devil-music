@@ -174,7 +174,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `screen bash start`
 <br>
 
-
+<details>
 <summary><b>sᴜᴘᴘᴏʀᴛ&updates💖</b></summary>
 <br>
 
@@ -195,7 +195,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 </details>
-
 
 
 <details>
