@@ -181,6 +181,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 # 𝐒𝐮𝐩𝐩𝐨𝐫𝐭💬 & 📡𝐔𝐩𝐝𝐚𝐭𝐞𝐬
 <a href="https://t.me/sabyahaapnehai"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
+<a href="https://t.me/sabyahaapnehai"><img src="https://img.shields.io/badge/-updates%20channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </details>
 
 
