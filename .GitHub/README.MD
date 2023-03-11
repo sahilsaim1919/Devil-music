@@ -172,6 +172,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Finally run the bot by :
 `screen bash start`
 <br>
+</details>
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
