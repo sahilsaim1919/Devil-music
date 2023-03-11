@@ -177,7 +177,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <summary><b>sᴜᴘᴘᴏʀᴛ& updates 💖</b></summary>
 <br>
 
-#    ─「 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬&📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬」─ 
+# 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬&📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 
 <a href="https://telegram.dog/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://telegram.dog/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
