@@ -14,7 +14,6 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for 
 
 
 ## Features Of 𝐃𝐞𝐯𝐢𝐥 And Commands ❤️
@@ -218,13 +217,12 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </details>
 
 
-## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
 
 <details>
-<summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
+<summary><b>𝑪𝒓𝒆𝒅𝒊𝒕</b></summary>
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ sʜɪᴢᴜᴋᴀ:
+𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑨𝒏𝒅 𝑪𝒓𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚𝒚 🥳🥳
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
