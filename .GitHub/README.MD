@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://t.me/Devil_x_music_bot"><img src="https://te.legra.ph/file/23feb49958b0770578fe1.jpg"></a></p>
 
-/p>
+
 
 <p align="center">
     <a href="https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
