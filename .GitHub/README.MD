@@ -172,16 +172,13 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Finally run the bot by :
 `screen bash start`
 
-
-
-
 <details>
-<summary><b>𝑪𝒓𝒆𝒅𝒊𝒕</b></summary>
+<summary><b>sᴜᴘᴘᴏʀᴛ& updates 💖</b></summary>
 <br>
+   ─「 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬 & 📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬💖 」─
 
-𝑴𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑨𝒏𝒅 𝑪𝒓𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚𝒚 🥳🥳
+<a href="https://telegram.dog/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 </details>
 
