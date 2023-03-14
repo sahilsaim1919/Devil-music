@@ -104,7 +104,7 @@
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
 - [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://telegram.dog/botfather)
 - [ᴍᴏɴɢᴏᴅʙ URI](https://te.legra.ph/How-To-get-Mongodb-URI-04-06)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://telegram.dog/STRING_SESSION_MAKER_BOT)
+- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://replit.com/@AssadAli/String-Session-Generator)
     
 </details>
 
