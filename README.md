@@ -1,13 +1,13 @@
  <h2 align="center">
-    ──「 DeVil X ダ ᴍᴜsɪᴄ 」──
+    ──「 𝐃𝐞𝐯𝐢𝐥 ✘ ꪑꪊ𝘴𝓲ᥴ 」──
 </h2>
 
 <p align="center"><a href="https://t.me/Devil_x_music_bot"><img src="https://te.legra.ph/file/23feb49958b0770578fe1.jpg"></a></p>
 
-## Features Of 𝐃𝐞𝐯𝐢𝐥  And Commands ❤️
+## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐎𝐟 𝐃𝐞𝐯𝐢𝐥 𝐀𝐧𝐝 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 ❤️
 
 <details>
-<summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
+<summary><b>𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬</b></summary>
 <br>
 
 - Thumbnail Support
