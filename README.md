@@ -40,7 +40,7 @@
 - Block / Unblock (restrict user for using your bot)
 </details>
 
-#### Overall Basic Commands 😂
+#### 𝐎𝐯𝐞𝐫𝐚𝐥𝐥 𝐁𝐚𝐬𝐢𝐜 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 😂
 <details>
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
