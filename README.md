@@ -185,7 +185,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://t.me/sabyahaapnehai"><img src="https://img.shields.io/badge/Join-Telegram%20groups-blue.svg?logo=Telegram"></a>
                                                            
 <a href="https://t.me/pyar_bhari_duniya"><img src="https://img.shields.io/badge/Join-Telegram%20channel-blue.svg?logo=telegram"></a>
-`join support & update freind 💖`
+
+`join support & update freind 😊😊💖` For required tutorial 😐 
+
 
 </details>
 
