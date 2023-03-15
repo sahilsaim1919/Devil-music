@@ -112,7 +112,7 @@
 <summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
 <br>
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/sahilsaim1919/Devil-xmusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/sahilsaim1919/Devil-music"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
@@ -139,7 +139,7 @@
 >If you deploy from Heroku then account may be suspended so try VPS only.
 
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ  ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsahilsaim1919%2FDevil-xmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsahilsaim1919%2FDevil-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
 <details>
@@ -183,8 +183,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 # 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬&📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬
 <a href="https://t.me/sabyahaapnehai"><img src="https://img.shields.io/badge/Join-Telegram%20groups-blue.svg?logo=Telegram"></a>
-
+                                                           
 <a href="https://t.me/pyar_bhari_duniya"><img src="https://img.shields.io/badge/Join-Telegram%20channel-blue.svg?logo=telegram"></a>
+`join support & update freind 💖`
 
 </details>
 
