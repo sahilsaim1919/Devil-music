@@ -186,7 +186,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
                                                            
 <a href="https://t.me/pyar_bhari_duniya"><img src="https://img.shields.io/badge/Join-Telegram%20channel-blue.svg?logo=telegram"></a>
 
-JOIN [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ](https://t.me/sabyahaapnehai) & [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/pyar_bhari_duniya) FREINDS 😊😊💖,FOR REQUIRED TUTORIAL 😉
+𝙅𝙊𝙄𝙉 [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ](https://t.me/sabyahaapnehai) & [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/pyar_bhari_duniya) 𝙁𝙍𝙄𝙀𝙉𝘿𝙎😊😊💖,𝙁𝙊𝙍 𝙍𝙀𝙌𝙐𝙄𝙍𝙀𝘿 𝙏𝙐𝙏𝙊𝙍𝙄𝘼𝙇 😉
 
 
 </details>
@@ -199,6 +199,6 @@ JOIN [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ](https://t.me/sabyahaapnehai) & [𝐔𝐩�
 
 <b> 𝑴𝒐𝒔𝒕 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 💖💖
 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
+- [𝙋𝙮𝙧𝙤𝙜𝙧𝙖𝙢](https://github.com/pyrogram/pyrogram)
+- [𝙋𝙮-𝙏𝙜𝙘𝙖𝙡𝙡𝙨](https://github.com/pytgcalls/pytgcalls)
 </details>
