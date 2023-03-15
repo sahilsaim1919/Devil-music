@@ -5,7 +5,7 @@ import heroku3
 from pyrogram import filters
 
 import config
-from ShizukaXMusic.core.mongo import pymongodb
+from Devil-music.core.mongo import pymongodb
 
 from .logging import LOGGER
 
